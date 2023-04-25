@@ -5,15 +5,16 @@ body{
    margin: 10% 20%;
 }
 
+
 .exp-header {
   text-align: center;
   text-transform: uppercase;
-  border-top: 1px solid #F0E9E7;
-  border-bottom: 1px solid :#F0E9E7;
-  background-color: rgba(0,0,0, 0.5)
+  border-top: 1px solid  #eaf6f6;
+  border-bottom: 1px solid  #eaf6f6;
+  background-color: rgba(0,0,0, 0.6)
   
 }
-
+    
 .career{
     font-size: 1.2 rem;
     color: white;
