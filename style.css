@@ -253,11 +253,11 @@ background: rgb(118, 24, 24);
 
 .footerNav ul{
     display: flex;
-    justify-content: center;
+    justify-content: middle center;
 }
 
 .footerNav ul li a{
-    color: white;
+    color: black;
     margin: 20px;
     text-decoration: none;
     font-size: 1.3em;
@@ -273,12 +273,12 @@ background: rgb(118, 24, 24);
 .footerBottom{
     background-color: #e09b07;
     padding: 20px;
-    text-align: center;
+    text-align: middle center;
 
 }
 
 .footerBottom p{
-    color: white;
+    color: black;
 }
 
 .designer{
